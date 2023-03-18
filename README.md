@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently a student of **[10xAcademy](https://www.the10xacademy.com/ target="_blank")**
+- 🔭 I’m currently a student of **[10xAcademy](https://www.the10xacademy.com/)**
 
 - 🌱 I’m currently learning **Web Development**
 
