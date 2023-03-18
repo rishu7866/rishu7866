@@ -80,7 +80,7 @@
 
 <a href = "https://www.linkedin.com/in/rishabh-kumar7866/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/rishu.rj67"><img src="https://img.icons8.com/color/50/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/_giridhar__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://api.whatsapp.com/send?phone=91+8340637031"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/></a>
+<a href = "[https://www.instagram.com/_giridhar__/](https://www.instagram.com/officially_lala_ji/)"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://api.whatsapp.com/send?phone=+918340637031"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/></a>
 
 </p>
