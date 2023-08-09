@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently a student of **[10xAcademy](https://www.the10xacademy.com/)**
+- 🔭 I’m currently Fresher
 
 - 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available here at **[My Portfolio](https://rishu7866.netlify.app/)**
 
-- 📫 How to reach me **iamrishu.3000@gmail.com**
+- 📫 How to reach me **rishabhk.9835@gmail.com**
 
 
 ## 🚀 Languages and Tools:
